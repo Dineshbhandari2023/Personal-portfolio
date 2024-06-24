@@ -1,7 +1,7 @@
 import { RiReactjsFill, RiNodejsFill, RiTailwindCssFill } from "react-icons/ri";
 import { SiTypescript } from "react-icons/si";
 import { DiMongodb } from "react-icons/di";
-import { animate, motion, Variants } from "framer-motion";
+import { motion, Variants } from "framer-motion";
 
 const iconVariants = (duration: any): Variants => ({
   initial: { y: -10 },

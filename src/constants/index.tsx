@@ -3,14 +3,14 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `Aspiring Web Developer with a keen interest in the MERN Stack.
-Currently enhancing my skills in MongoDB, Express.js, React, and Node.js,
-building upon a strong foundation in Python and Django. Passionate
+export const HERO_CONTENT = `Aspiring Web Developer with a keen interest in the FrontEnd Development.
+Currently enhancing my skills in Vite + React + Typescript, and Tailwind CSS,
+building upon a strong foundation. Passionate
 about translating complex problems into innovative solutions and eager
 to apply my knowledge in real-world projects. Committed to continuous
 learning and excited to contribute to dynamic development teams.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile frontend developer with a passion for creating efficient and user-friendly web applications. With few years of professional experience, I have worked with a variety of technologies, including React, Typescript, and Tailwind CSS, also with the basics of NodeJS. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
@@ -75,7 +75,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Itahari-2, Tarahara",
+  phoneNo: "+977 9805399953",
+  email: "bhandaridinesh455@gmail.com",
 };
